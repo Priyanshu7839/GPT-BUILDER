@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/gpt3_jsm/static/css/main.b241fec0.css",
-    "main.js": "/gpt3_jsm/static/js/main.f05b39b0.js",
-    "static/media/Feature Image.png": "/gpt3_jsm/static/media/Feature Image.d60d0a1de0971dc00bd3.png",
-    "static/media/blog05.jpg": "/gpt3_jsm/static/media/blog05.9ed7f8953a1c872878d8.jpg",
-    "static/media/blog01.jpg": "/gpt3_jsm/static/media/blog01.be82e9b66fc1727c8934.jpg",
-    "static/media/ai.png": "/gpt3_jsm/static/media/ai.517adb9d877a4f519b88.png",
-    "static/media/blog02.jpeg": "/gpt3_jsm/static/media/blog02.15f96fb4d53713df96bf.jpeg",
-    "static/media/blog04.jpeg": "/gpt3_jsm/static/media/blog04.39491ed170897b19a9dc.jpeg",
-    "static/media/blog03.jpeg": "/gpt3_jsm/static/media/blog03.449f8814423b03967f5d.jpeg",
-    "static/media/logo.png": "/gpt3_jsm/static/media/logo.50ec21375111f35097c2.png",
-    "static/media/people.png": "/gpt3_jsm/static/media/people.bad16829c7341d6783d8.png",
-    "static/media/dropbox.png": "/gpt3_jsm/static/media/dropbox.57b3fe2fbbb84fa75ea5.png",
-    "index.html": "/gpt3_jsm/index.html",
-    "main.b241fec0.css.map": "/gpt3_jsm/static/css/main.b241fec0.css.map",
-    "main.f05b39b0.js.map": "/gpt3_jsm/static/js/main.f05b39b0.js.map"
+    "main.css": "/GPT-BUILDER/static/css/main.b241fec0.css",
+    "main.js": "/GPT-BUILDER/static/js/main.0dbee5cb.js",
+    "static/media/Feature Image.png": "/GPT-BUILDER/static/media/Feature Image.d60d0a1de0971dc00bd3.png",
+    "static/media/blog05.jpg": "/GPT-BUILDER/static/media/blog05.9ed7f8953a1c872878d8.jpg",
+    "static/media/blog01.jpg": "/GPT-BUILDER/static/media/blog01.be82e9b66fc1727c8934.jpg",
+    "static/media/ai.png": "/GPT-BUILDER/static/media/ai.517adb9d877a4f519b88.png",
+    "static/media/blog02.jpeg": "/GPT-BUILDER/static/media/blog02.15f96fb4d53713df96bf.jpeg",
+    "static/media/blog04.jpeg": "/GPT-BUILDER/static/media/blog04.39491ed170897b19a9dc.jpeg",
+    "static/media/blog03.jpeg": "/GPT-BUILDER/static/media/blog03.449f8814423b03967f5d.jpeg",
+    "static/media/logo.png": "/GPT-BUILDER/static/media/logo.50ec21375111f35097c2.png",
+    "static/media/people.png": "/GPT-BUILDER/static/media/people.bad16829c7341d6783d8.png",
+    "static/media/dropbox.png": "/GPT-BUILDER/static/media/dropbox.57b3fe2fbbb84fa75ea5.png",
+    "index.html": "/GPT-BUILDER/index.html",
+    "main.b241fec0.css.map": "/GPT-BUILDER/static/css/main.b241fec0.css.map",
+    "main.0dbee5cb.js.map": "/GPT-BUILDER/static/js/main.0dbee5cb.js.map"
   },
   "entrypoints": [
     "static/css/main.b241fec0.css",
-    "static/js/main.f05b39b0.js"
+    "static/js/main.0dbee5cb.js"
   ]
 }
